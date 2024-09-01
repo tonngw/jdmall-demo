@@ -59,7 +59,7 @@ The demo is my learning experince, so I hope this demo can help you get started 
 
 ## Page Preview
 
-https://github.com/user-attachments/assets/b329ba53-43ad-420c-bf28-326f1d6d7fc0
+https://github.com/user-attachments/assets/d944703f-873e-4236-bb46-0883be419e6b
 
 ---
 
